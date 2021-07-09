@@ -47,6 +47,13 @@ programmed with whatever effect needed at the time. What is cheap enough? Given
 I just spent AUD$200 on an xotic EP boost (which I love), around the AUD$100 or
 a bit less would be ideal.
 
+## Status
+
+A breadboard prototype, with line out, and the Teensy still powered via usb.
+Update here:
+
+https://youtu.be/dThFcF1rC84
+
 
 
 
