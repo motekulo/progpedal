@@ -1,8 +1,4 @@
-## Progpedal
-
-A programmable effects pedal for guitar
-
-### It has been done already!
+## It has been done already!
 
 Yes.
 
@@ -29,7 +25,7 @@ and there's a [version 2](https://github.com/akbatt3n/teensy-pedal-v2).
 Let me (motekulo@gmail.com) know what others you come across, as it would be
 useful to build a more comprehensive list.
 
-### Why do it again?
+## Why do it again?
 
 - I'm in covid-19 lockdown and want to build something while on staycation.
 - I actually need a reverb pedal
@@ -37,7 +33,7 @@ useful to build a more comprehensive list.
 Some criteria that are important to me:
 
 I don't want to run a full Linux/ Jack setup. I already do that with my home
-studio setup. I want to be able to have the pedal on my pedal board, turn it
+studio. I want to be able to have the pedal on my pedal board, turn it
 on, and have it work.
 
 I only want a few knobs to turn, and not a complex interface to navigate. When
