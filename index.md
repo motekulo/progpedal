@@ -52,7 +52,8 @@ a bit less would be ideal.
 A breadboard prototype, with line out, and the Teensy still powered via usb.
 Update here:
 
-https://youtu.be/dThFcF1rC84
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dThFcF1rC84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
