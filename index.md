@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Progpedal
 
-You can use the [editor on GitHub](https://github.com/motekulo/progpedal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A programmable effects pedal for guitar
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### It has been done already!
 
-### Markdown
+Yes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An early version (2010?), the
+[Coyote-1](https://learn.parallax.com/educators/inspiration/openstomp),
+although the openstomp links referred to here are no longer working.
 
-```markdown
-Syntax highlighted code block
+A fully blown [Linux based
+project](https://popularelectronics.technicacuriosa.com/2017/03/07/pop-the-programmable-open-pedal/)
+using the CHIP board (a link there no longer working too).
 
-# Header 1
-## Header 2
-### Header 3
+There are some Arduino projects including the [stomp
+shield](http://www.openmusiclabs.com/projects/stomp-shield/index.html) and the
+[pedalshield](https://www.electrosmash.com/pedalshield).
 
-- Bulleted
-- List
+Electrosmash (great forums and info in general - worth checking out) have a
+[Raspberry Pi based pedal too](https://www.electrosmash.com/pedal-pi).
 
-1. Numbered
-2. List
+The project that interested me most, however, was
+[Teensy](https://www.pjrc.com/teensy/) based. Sparkfun have a [great
+tutorial](https://learn.sparkfun.com/tutorials/proto-pedal-example-programmable-digital-pedal/all)
+and there's a [version 2](https://github.com/akbatt3n/teensy-pedal-v2).
 
-**Bold** and _Italic_ and `Code` text
+Let me (motekulo@gmail.com) know what others you come across, as it would be
+useful to build a more comprehensive list.
 
-[Link](url) and ![Image](src)
-```
+### Why do it again?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- I'm in covid-19 lockdown and want to build something while on staycation.
+- I actually need a reverb pedal
 
-### Jekyll Themes
+Some criteria that are important to me:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/motekulo/progpedal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I don't want to run a full Linux/ Jack setup. I already do that with my home
+studio setup. I want to be able to have the pedal on my pedal board, turn it
+on, and have it work.
 
-### Support or Contact
+I only want a few knobs to turn, and not a complex interface to navigate. When
+rehearsing or performing, I only have time to tweak a few knobs at most. I have
+a Boss GP-10 multi-effects unit (and guitar synth paired with a Godin Multiac)
+and can honestly say that I have never adjusted any parameters (other than
+tweaking the overall volume knob) while in a rehearsal or while performing.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ideally, it would be cheap enough so that I could have two or three, each
+programmed with whatever effect needed at the time. What is cheap enough? Given
+I just spent AUD$200 on an xotic EP boost (which I love), around the AUD$100 or
+a bit less would be ideal.
+
+
+
+
+
